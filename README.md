@@ -6,6 +6,8 @@ Projeto desenvolvido para o desafio: "Ferramentas/maneiras para auxiliar aqueles
 
 💡 Solução: Site acessível com lembretes de consulta, integração com WhatsApp e navegação facilitada.
 
-📁 Projeto em HTML, CSS. Imagens incluídas.
+📁 Projeto em HTML, CSS e JavaScript. Imagens incluídas.
 
-👨‍💻 Desenvolvido por João Gabriel Ferreira Ribeiro RM-558541
+👨‍💻 Desenvolvido por João Gabriel Ferreira Ribeiro RM-558541 
+
+
